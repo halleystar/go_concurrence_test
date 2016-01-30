@@ -17,7 +17,7 @@ func main() {
 			mixHits := 1000
 			//混合
 			myChans := make(chan int, hits)
-			b := `{"phone":"13333369025", "password": "123456","type":0, "open_id":"o08NEt65Iei1RiSoj7t09h_BpCJE", "passport_id": 86}`
+			b := ``
 			url := ""
 
 			f := func() {
